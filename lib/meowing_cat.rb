@@ -1,6 +1,7 @@
 ## code your solution here. 
 class Cat
   attr_accessor :name
-  def
+  def meow
+    puts 
   end
 end
